@@ -9,3 +9,5 @@ I'm a computer science student, currently in my third year. From a very young ag
 My lifetime goal is to keep learning more and more to understand how things work.
 
 <img src="https://github-readme-stats.vercel.app/api?username=eliasfratello&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+
+![](https://komarev.com/ghpvc/?username=eliasfratelloe&color=blue&style=flat)
